@@ -13,4 +13,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: #fefefe;
+}
+
+span {
+    color: #c6bcf2c4;
+}
+
+.hero h1{
+    font-size:40px ;
+    font-weight: 500;
+    margin-top: -50px ;
+    margin-bottom:50px ;
 }
