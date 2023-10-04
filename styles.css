@@ -16,7 +16,7 @@
     color: #fefefe;
 }
 
-span {
+.hero h1 span {
     color: #c6bcf2c4;
 }
 
@@ -25,4 +25,18 @@ span {
     font-weight: 500;
     margin-top: -50px ;
     margin-bottom:50px ;
+}
+
+textarea {
+    width: 600px;
+    height: 250px;
+    background: #403d84;
+    color: #fefefe;
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    padding: 20px;
+    border-radius: 10px;
+    resize: none;
+    margin-bottom: 30px;
 }
